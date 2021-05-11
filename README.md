@@ -16,4 +16,9 @@
 >   - 이코테 상하좌우 up_down_left_right.py
 >   - 이코테 시각 time1.py
 >   - 이코테 시각 time2.py
+>   - 
+>
+>Search
+>   - 파이썬으로 스택 구현 stack.py
+
  
