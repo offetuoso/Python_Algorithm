@@ -20,5 +20,6 @@
 >
 >Search
 >   - 파이썬으로 스택 구현 stack.py
+>   - 파이썬으로 선형 큐 구현 linearQueue.py
 
  
