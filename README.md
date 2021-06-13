@@ -17,9 +17,14 @@
 >   - 이코테 시각 time1.py
 >   - 이코테 시각 time2.py
 >   - 
->
+
 >Search
 >   - 파이썬으로 스택 구현 stack.py
 >   - 파이썬으로 선형 큐 구현 linearQueue.py
 
- 
+>Codility
+>   - Arrays - CyclicRotation CyclicRotation.py
+>   - Arrays - OddOccurrencesInArray OddOccurrencesInArray.py
+>   - Time Complexity - PermMissingElem PermMissingElem.py
+>   - Time Complexity - TapeEquilibrium TapeEquilibrium.py
+>   - Counting Elements - FrogRiverOne FrogRiverOne.py
